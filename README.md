@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramprasad Reddy</h1>
-<h3 align="center">Big Data Analytics Engineer | Future Data Analyst 📊</h3>
+<h3 align="center">Big Data Analytics Student | Future Data Analyst 📊</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Power+BI+Developer;Data+Analytics+%26+Machine+Learning+Enthusiast;Future+Data+Analyst;Open+to+Internships+%26+Placements" />
