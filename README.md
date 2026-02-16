@@ -1,132 +1,71 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=180&section=header&text=Ramprasad%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0ea5e9&height=200&section=header&text=Ramprasad%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<div align="center">
+<h1 align="center">🚀 Aspiring Data Analyst | Big Data Analytics Student</h1>
+<h3 align="center">Python • SQL • Power BI • Machine Learning</h3>
 
-# 👋 Hi, I'm Ramprasad Reddy
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Future+Data+Analyst;Big+Data+Analytics+Student;Open+to+Internships;Building+Real+World+Projects" />
+</p>
 
-### 🚀 Data Analyst | Big Data Engineer | Future Business Analyst
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+Power+BI+Expert;Big+Data+Analytics+Engineer;Machine+Learning+%26+Data+Science;Open+to+Internships+%26+Placements;Future+Business+Analyst" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Ramprasad2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ramprasad2005&label=Profile+Views&color=0ea5e9&style=flat" />
+</p>
 
 ---
 
-# 🧠 About Me
-
-* 🎓 B.Tech CSE (Big Data Analytics - IBM) @ Lovely Professional University
-* 📊 Aspiring **Data Analyst / Business Analyst**
-* 💼 Strong in **Python, SQL, Power BI, PySpark & ML**
-* 🌍 Goal: **Masters Abroad + High Salary Data Career**
-* ⚡ Building real-world analytics & full stack projects
-* 🏆 Preparing for top tech & analytics roles
+## 🧠 About Me
+- 🎓 B.Tech CSE (Big Data Analytics - IBM) @ LPU  
+- 📊 Aspiring **Data Analyst / Business Analyst**  
+- 💼 Skilled in Python, SQL, Power BI & ML  
+- 🌍 Goal: Masters abroad + high salary job  
+- ⚡ Building strong real-world projects  
 
 ---
 
-# 💻 Tech Arsenal
+## ⚡ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,mysql,docker,git,github" />
+</p>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,mongodb,mysql,docker,git,github" />
-</div>
-
-<div align="center">
-<b>Python • SQL • Power BI • PySpark • Pandas • NumPy • Machine Learning • React • MongoDB • Docker</b>
-</div>
-
----
-
-# 📊 Featured Data Projects
-
-<div align="center">
-
-| Project                     | Description                   | Tech                 |
-| --------------------------- | ----------------------------- | -------------------- |
-| 🎬 Movie Trend Prediction   | ML model + Power BI dashboard | Python, ML, Power BI |
-| 🌍 Smart Itinerary Planner  | Full stack travel planner     | React, Node, MongoDB |
-| 📈 Transport Sales Analysis | EDA + clustering insights     | Python, Pandas       |
-| 🌐 Portfolio Website        | Personal developer portfolio  | React                |
-
-</div>
-
-🔗 **Portfolio:**
-https://ramprasadreddy-portfolio.netlify.app
+<p align="center">
+Python • SQL • Power BI • Pandas • Machine Learning • React • MongoDB
+</p>
 
 ---
 
-# 📊 GitHub Analytics Dashboard
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ramprasad2005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramprasad2005&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<br>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasad2005&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+## 🚀 Projects
+- 🎬 Movie Trend Prediction (ML + Power BI)  
+- 🌍 Smart Itinerary Planner (Full Stack)  
+- 📈 Transport Sales Analysis  
+- 🌐 Portfolio:  
+**https://ramprasadreddy-portfolio.netlify.app**
 
 ---
 
-# 🏆 Certifications
-
-✔ IBM Data Fundamentals
-✔ Deloitte Data Analytics Simulation
-✔ HackerRank SQL Advanced
-✔ AWS Solutions Architecture (Forage)
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/ram-prasad-reddy-pappireddy">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="https://ramprasadreddy-portfolio.netlify.app">
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-</a>
-
-<a href="mailto:ramprasadreddy23@lpu.in">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-</div>
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ramprasad2005&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramprasad2005&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-# 🐍 Contribution Graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Ramprasad2005/Ramprasad2005/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
-
-# ⚡ Current Focus
-
-```diff
-+ Data Analytics & Visualization
-+ Machine Learning Projects
-+ SQL & Power BI Mastery
-+ Internship & Placement Preparation
-+ Masters Abroad Preparation
-```
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/ram-prasad-reddy-pappireddy"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="mailto:ramprasadreddy23@lpu.in"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://ramprasadreddy-portfolio.netlify.app"><img src="https://skillicons.dev/icons?i=react" height="40"/></a>
+</p>
 
 ---
 
-<div align="center">
+## 🐍 Contributions
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ramprasad2005/Ramprasad2005/output/github-contribution-grid-snake.svg" />
+</p>
 
-### 💎 Future Data Analyst | Top 1% Profile Loading...
+---
 
-### 🚀 Open to Internships & Data Roles
-
-</div>
+<h3 align="center">💎 Aspiring Data Analyst | Open to Internships</h3>
