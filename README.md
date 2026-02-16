@@ -47,3 +47,8 @@ Portfolio: https://ramprasadreddy-portfolio.netlify.app
 Email: ramprasadreddy23@lpu.in  
 
 <h3 align="center">⭐ Future Data Analyst</h3>
+
+## 🐍 Contribution Snake
+
+![snake gif](https://ramprasad2005.github.io/Ramprasad2005/github-contribution-grid-snake.svg)
+
