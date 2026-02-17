@@ -1,68 +1,86 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0ea5e9&height=220&section=header&text=Ramprasad%20Reddy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-  
-  <h1>🚀 Aspiring Data Analyst & Big Data Specialist</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Data-Driven+Solutions;Crafting+Machine+Learning+Models;Visualizing+Insights+with+Power+BI;B.Tech+CSE+Undergraduate" alt="Typing SVG" />
-  </a>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0ea5e9&height=230&section=header&text=Ramprasad%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-  <p>
-    <a href="https://linkedin.com/in/ram-prasad-reddy-pappireddy">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:ramprasadreddy23@lpu.in">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://ramprasadreddy-portfolio.netlify.app">
-      <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
-    </a>
-  </p>
-</div>
+<h1 align="center">⚡ Data Analyst in Progress | Big Data Engineer of Tomorrow</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=0ea5e9&center=true&vCenter=true&width=750&lines=Future+Data+Analyst+%F0%9F%93%8A;Business+Analytics+Enthusiast;Building+Real+World+Projects;Open+for+Internships+%F0%9F%9A%80;Turning+Data+into+Decisions" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ramprasad2005&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Ramprasad2005?label=Followers&style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/stars/Ramprasad2005?style=for-the-badge&color=0ea5e9"/>
+</p>
 
 ---
 
-### 👨‍💻 About Me
-
-I am a **Big Data Analytics Student** at **LPU** with a passion for transforming raw data into actionable business insights. My focus lies in the intersection of Data Science and Web Development.
-
-- 🎓 **Education:** B.Tech CSE (Big Data Analytics - IBM)
-- 🔭 **Current Focus:** Advanced Machine Learning algorithms & SQL Optimization
-- 💼 **Goal:** Pursuing Masters abroad & seeking high-impact Data Analyst roles
-- ⚡ **Fun Fact:** I love solving complex problems on LeetCode!
-
----
-
-### 🛠️ Technical Arsenal
-
-<div align="center">
-
-| **Data Science & ML** | **Web Development** | **Tools & Platforms** |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-
-</div>
+# 🧠 About Me
+🎓 B.Tech CSE (Big Data Analytics - IBM) @ LPU  
+📊 Aspiring **Data Analyst / Business Analyst**  
+💻 Python • SQL • Power BI • Machine Learning  
+🌍 Goal → Masters Abroad (Australia/Canada)  
+🚀 Building strong real-world & portfolio projects  
+💼 Open for **Internships & Data Roles**  
 
 ---
 
-### 🏆 Featured Projects
+# ⚡ Tech Arsenal
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,mysql,git,github,docker,aws" />
+</p>
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🎬 Movie Trend Prediction** | A predictive model analyzing movie success factors using historical data. | `Python` `Sklearn` `Power BI` |
-| **🌍 Smart Itinerary Planner** | Full-stack application for automated travel planning and scheduling. | `React` `Node.js` `MongoDB` |
-| **📈 Transport Sales Analysis** | Data visualization dashboard offering insights into logistics performance. | `SQL` `Power BI` `Excel` |
+<p align="center">
+<b>Python • SQL • Power BI • Pandas • ML • React • MongoDB • AWS</b>
+</p>
 
 ---
 
-### 📊 GitHub Analytics
+# 🚀 Featured Projects
+💡 **Movie Trend Prediction** → ML + Power BI  
+🌍 **Smart Travel Planner** → Full Stack Project  
+📊 **Transport Sales Dashboard** → Data Analytics  
+📈 **Customer Shopping Data Cleaning (PySpark)**  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramprasad2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramprasad2005&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak graph" />
-</div>
+🌐 Portfolio Website:  
+### 🔗 https://ramprasadreddy-portfolio.netlify.app
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ramprasad2005/Ramprasad2005/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+---
+
+# 📊 GitHub Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ramprasad2005&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramprasad2005&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasad2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/ram-prasad-reddy-pappireddy">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="mailto:ramprasadreddy23@lpu.in">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+<a href="https://ramprasadreddy-portfolio.netlify.app">
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+</a>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ramprasad2005/Ramprasad2005/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h2 align="center">💎 Future Data Analyst | Masters Abroad Soon | High Salary Loading...</h2>
+<h3 align="center">⭐ If you like my profile — Follow & Connect</h3>
