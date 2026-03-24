@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:D4AF37&height=200&section=header&text=Ramprasad%20Reddy&fontSize=42&fontColor=FFD700&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:C9A55C&height=200&section=header&text=Ramprasad%20Reddy&fontSize=42&fontColor=C9A55C&animation=fadeIn" />
 </p>
 
 <h1 align="center">👑 Aspiring Data Analyst | Big Data Analytics Student</h1>
@@ -7,11 +7,11 @@
 <h3 align="center">Python • SQL • Power BI • Machine Learning</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=FFD700&center=true&vCenter=true&width=700&lines=Future+Data+Analyst;Big+Data+Analytics+Student;Open+to+Internships;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=C9A55C&center=true&vCenter=true&width=700&lines=Future+Data+Analyst;Big+Data+Analytics+Student;Open+to+Internships;Building+Real+World+Projects" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ramprasad2005&label=Profile+Views&color=FFD700&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Ramprasad2005&label=Profile+Views&color=C9A55C&style=flat" />
 </p>
 
 ---
@@ -51,9 +51,9 @@ Python • SQL • Power BI • Pandas • Machine Learning • React • MongoD
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ramprasad2005&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ramprasad2005&show_icons=true&theme=dark&title_color=C9A55C&icon_color=C9A55C&text_color=ffffff&bg_color=000000&hide_border=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramprasad2005&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=000000&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramprasad2005&theme=dark&ring=C9A55C&fire=C9A55C&currStreakLabel=C9A55C&background=000000&hide_border=true" height="165"/>
 </p>
 
 ---
